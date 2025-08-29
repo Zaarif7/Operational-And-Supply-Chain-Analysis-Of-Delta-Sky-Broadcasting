@@ -1,4 +1,5 @@
-This project was awarded a First Class Distinction by the University of Birmingham.
+This project was awarded a **First Class Distinction** by the University of Birmingham.
+
 The final project has been submitted to Turnitin for plagiarism screening. The author retains full copyright over the entire work.
 
 <img width="2000" height="2588" alt="image" src="https://github.com/user-attachments/assets/63b1f902-6bdf-4fcb-952f-ff9ce7fe01ce" />
